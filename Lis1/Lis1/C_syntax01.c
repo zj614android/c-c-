@@ -1,6 +1,7 @@
 //c头文件，
 #include <stdlib.h>
 
+
 //名称为main的类似于java的方法
 void helloword() {
 	//system是系统函数
