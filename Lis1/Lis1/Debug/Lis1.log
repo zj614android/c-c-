@@ -1,0 +1,3 @@
+﻿  C_scanf.c
+d:\c++\project\lis1\lis1\c_scanf.c(15): warning C4013: “system”未定义；假设外部返回 int
+  Lis1.vcxproj -> D:\C++\project\Lis1\Debug\Lis1.exe
