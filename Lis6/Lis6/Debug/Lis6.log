@@ -1,0 +1,3 @@
+﻿  VirtualDemo.cpp
+d:\c++\project\lis6\lis6\virtualdemo.cpp(32): warning C4326: “main”的返回类型应为“int”而非“void”
+  Lis6.vcxproj -> D:\C++\project\Lis6\Debug\Lis6.exe
