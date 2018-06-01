@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<thread>
 void main() {
 
 	int i = 20;
