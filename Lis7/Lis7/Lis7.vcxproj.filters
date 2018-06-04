@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloPthread.cpp">
+    <ClCompile Include="passArgsToThread.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
