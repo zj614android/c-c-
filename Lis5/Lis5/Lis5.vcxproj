@@ -19,7 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OverLoaderOperator.cpp" />
+    <ClInclude Include="带参构造.h" />
+    <ClInclude Include="构造函数和析构函数.h" />
+    <ClInclude Include="析构函数.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="析构函数.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

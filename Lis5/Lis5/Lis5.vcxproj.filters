@@ -15,7 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OverLoaderOperator.cpp">
+    <ClInclude Include="构造函数和析构函数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="带参构造.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="析构函数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="析构函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
